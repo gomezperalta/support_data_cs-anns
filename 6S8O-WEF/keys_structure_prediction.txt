@@ -1,0 +1,8 @@
+{'garnet_structure': 0,
+ 'hexagonal_perovskites': 1,
+ 'ilmenite_structure': 2,
+ 'layered_perovskites': 3,
+ 'o-tp_perovskites_structure': 4,
+ 'perovskite_structure': 5,
+ 'spinel_structure': 6,
+ 'not_identified_examples': 7}

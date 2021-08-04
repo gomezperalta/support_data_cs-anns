@@ -1,0 +1,10 @@
+{'fluorite_structure': 0,
+ 'garnet_structure': 1,
+ 'halite_structure': 2,
+ 'hexagonal_perovskites': 3,
+ 'ilmenite_structure': 4,
+ 'layered_perovskites': 5,
+ 'o-tp_perovskites_structure': 6,
+ 'perovskite_structure': 7,
+ 'spinel_structure': 8,
+ 'not_identified_examples': 9}

@@ -1,0 +1,4 @@
+{'garnet_structure': 0,
+ 'perovskite_structure': 1,
+ 'spinel_structure': 2,
+ 'not_identified_examples': 3}
